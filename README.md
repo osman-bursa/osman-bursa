@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @osman-bursa
 - 🌱 I’m currently learning React.js
-- 📫 How to reach me 
-  osmanbursa1996@gmail.com / https://www.linkedin.com/in/osman-bursa/
+- 📫 How to reach me osmanbursa1996@gmail.com / https://www.linkedin.com/in/osman-bursa/
 
 <!---
 osman-bursa/osman-bursa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

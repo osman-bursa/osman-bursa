@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @osman-bursa
-- 🌱 I’m currently learning React.js
-- 📫 How to reach me osmanbursa1996@gmail.com / https://www.linkedin.com/in/osman-bursa/
 
 <!---
 osman-bursa/osman-bursa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +13,5 @@ Besides the bootcamp education I'm also learning React.js in my spare time from 
 https://github.com/osman-bursa
 
 I am highly energetic, cheerful, well focused, team work enthusiast with strong communication skills. I would love to hear more from you and have a conversation and tell you more about my qualifications. 
+
+- 📫 How to reach me osmanbursa1996@gmail.com / https://www.linkedin.com/in/osman-bursa/

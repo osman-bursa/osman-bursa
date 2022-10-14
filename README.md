@@ -5,7 +5,7 @@ osman-bursa/osman-bursa is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-Hello there, my name is Osman and I am a Jr. Software Developer from Ankara/Turkey. I graduated from Hacettepe University Civil Engineering and I have 1.5 years of architectural experience on fiverr working remotely on projects across many counties (mainly USA, Australia, Canada, and EU).
+Hello there, my name is Osman and I am a Jr. Software Developer from Ankara/Turkey. I graduated from Hacettepe University Civil Engineering and I have 1.5 years of  remote working experience as an architect on fiverr on projects across many counties (mainly USA, Australia, Canada, and EU).
 
 My software knowledge is mainly based on Microsoft Technologies such as C#, .Net Framework, MS SQL Server, EntityFramework, Asp.Net Core etc. 
 I also have fundamental knowledge on front-end technologies such as HTML, CSS, JavaScript.
